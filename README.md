@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my work in AI-driven gameplay improvement, wine recognition using machine learning, and my data clustering projects with The New York Times articles.**
 
-- 📫 How to reach me **[dengxin@unc.edu](mailto:dengxin@unc.edu)** or connect with me on LinkedIn **[here](https://www.linkedin.com/in/dengxinhuang)**.
+- 📫 How to reach me: Email me at [dengxin@unc.edu](mailto:dengxin@unc.edu) or connect with me on LinkedIn [here](https://www.linkedin.com/in/dengxinhuang). Visit my personal page [here]([https://www.dengxinhuang.com](https://tarheels.live/dengxin/)) to learn more about my projects and interests.
 
 - 😄 Pronouns: **He/Him**
 
